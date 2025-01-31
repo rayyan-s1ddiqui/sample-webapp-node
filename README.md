@@ -46,6 +46,6 @@ If you don't have Node.js installed, install it from:
 
 2. Run the container:
    ```sh
-   docker run -p 3000:3000 node-web-app
+   docker run -d -p 3000:3000 node-web-app
    ```
 
