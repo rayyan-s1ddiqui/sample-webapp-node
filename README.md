@@ -49,3 +49,6 @@ If you don't have Node.js installed, install it from:
    docker run -d -p 3000:3000 node-web-app
    ```
 
+
+
+<!-- Security scan triggered at 2025-09-02 15:27:59 -->
